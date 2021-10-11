@@ -1,3 +1,3 @@
-print "elhwo "
-print " class "
-print " hi hi "
+print ("elhwo ")
+print (" class")
+print (" hi hi ")
