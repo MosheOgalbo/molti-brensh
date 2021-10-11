@@ -4,7 +4,7 @@ pipeline {
         stage('Run code') {
             steps {
                 
-                sh "python3.exe example1.py"
+                sh "python3 frils.py"
             }
         }
 
